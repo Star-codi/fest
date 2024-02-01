@@ -1,0 +1,194 @@
+/* src/App.css */
+
+nav {
+  display: flex;
+  justify-content: flex-end; /* Align navigation items to the right */
+  padding: 10px; /* Add padding for better spacing */
+}
+
+nav a {
+  margin-left: 15px; /* Add space between navigation items */
+  text-decoration: none;
+  color: black;
+}
+
+nav a.active {
+  color: blue; /* Change color for active link if needed */
+}
+
+
+/* src/App.css */
+.slide {
+  position: relative;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+
+.slider-image {
+  width: 100%;
+  max-height: 80vh; /* Adjust the maximum height as needed */
+  object-fit: cover;
+}
+
+/* src/App.css */
+.slider-image {
+  width: 100%;
+  max-height: 80vh; /* Adjust the maximum height as needed */
+  object-fit: cover;
+}
+
+
+
+/* src/App.css */
+
+body {
+  background-color: #343541;
+  margin: 0; /* Reset default margin for the body */
+  padding: 0; /* Reset default padding for the body */
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+nav a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: white; /* Set link color to white */
+}
+
+nav a.active {
+  color: yellow; /* Set active link color to yellow or any other color you prefer */
+}
+
+.slide {
+  position: relative;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+
+.slider-image {
+  width: 100%;
+  max-height: 80vh;
+  object-fit: cover;
+}
+
+/* Additional styling for contact page */
+.contact-info {
+  text-align: center;
+  color: white;
+}
+
+
+
+/* src/App.css */
+
+.contact-info {
+  text-align: center;
+  color: white;
+  padding: 50px;
+}
+
+.contact-info h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.contact-info button {
+  background-color: #fff; /* Button color */
+  color: #57399e; /* Text color */
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.contact-info button:hover {
+  background-color: #57399e; /* Hover background color */
+  color: white; /* Hover text color */
+}
+
+
+/* src/App.css */
+
+.registration-container {
+  text-align: center;
+  color: white;
+  padding: 50px;
+}
+
+.registration-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+
+
+.registration-card:hover {
+  border-color: #57399e;
+}
+
+.registration-card.selected {
+  border-color: #57399e;
+}
+
+
+
+.registration-details {
+  margin-top: 20px;
+}
+
+
+/* src/App.css */
+
+.registration-card {
+  border: 2px solid #fff;
+  padding: 20px;
+  cursor: pointer;
+  transition: border-color 0.3s;
+  position: relative;
+  height: 300px; /* Set a fixed height for each card */
+}
+
+.registration-image {
+  width: 100%;
+  height: 60%; /* Adjust the height of the image within the card */
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+/* src/App.css */
+
+.printable-registration-details {
+  padding: 20px;
+  border: 1px solid #000;
+  margin: 20px;
+}
+
+
+/* Add this style to your CSS file or in the head of your HTML document */
+.ignite-text {
+  font-family: 'Your Desired Font', Monospace; /* Replace with your desired font */
+  font-size: 4rem; /* Adjust the font size as needed */
+  color: #fff; /* Set the text color */
+}
