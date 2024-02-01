@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/fest/static/css/main.9751c125.css",
+    "main.js": "/fest/static/js/main.90d8fc65.js",
+    "static/js/703.0f31e516.chunk.js": "/fest/static/js/703.0f31e516.chunk.js",
+    "static/js/379.e1eef8a1.chunk.js": "/fest/static/js/379.e1eef8a1.chunk.js",
+    "static/js/787.0c5aa5d9.chunk.js": "/fest/static/js/787.0c5aa5d9.chunk.js",
+    "static/media/bg3.jpg": "/fest/static/media/bg3.11d9742906c6ba91750d.jpg",
+    "static/media/bg1.jpg": "/fest/static/media/bg1.c8a4fc3365650d13e022.jpg",
+    "static/media/regbg.jpg": "/fest/static/media/regbg.b01c9f3af7db1694d412.jpg",
+    "static/media/dancing.jpg": "/fest/static/media/dancing.fd10da99674258965246.jpg",
+    "static/media/bg2.jpg": "/fest/static/media/bg2.104a9664e0d8fc040c22.jpg",
+    "static/media/bg4.jpg": "/fest/static/media/bg4.a544d49f403fc3a2cfba.jpg",
+    "static/media/seminar.jpg": "/fest/static/media/seminar.2c855c5ab827405f6155.jpg",
+    "static/media/fashion-show.jpg": "/fest/static/media/fashion-show.6f9063bbfdb384250382.jpg",
+    "static/media/dj-party.jpg": "/fest/static/media/dj-party.69345257a561b8fcac91.jpg",
+    "static/media/singing.jpg": "/fest/static/media/singing.098d8ee86c69bd1c72f5.jpg",
+    "static/media/slick.svg": "/fest/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/fest/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/fest/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/fest/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/fest/index.html",
+    "main.9751c125.css.map": "/fest/static/css/main.9751c125.css.map",
+    "main.90d8fc65.js.map": "/fest/static/js/main.90d8fc65.js.map",
+    "703.0f31e516.chunk.js.map": "/fest/static/js/703.0f31e516.chunk.js.map",
+    "379.e1eef8a1.chunk.js.map": "/fest/static/js/379.e1eef8a1.chunk.js.map",
+    "787.0c5aa5d9.chunk.js.map": "/fest/static/js/787.0c5aa5d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9751c125.css",
+    "static/js/main.90d8fc65.js"
+  ]
+}
